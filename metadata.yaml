@@ -1,0 +1,44 @@
+_repo: Two-Stories_63230
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Carrington, Dora de Houghton
+    aliases:
+    - Partridge, Dora de Houghton
+    - Carrington, Dora
+    birthdate: 1893
+    deathdate: 1932
+    gutenberg_agent_id: '50866'
+    url: http://www.gutenberg.org/2009/agents/50866
+    wikipedia: https://en.wikipedia.org/wiki/Dora_Carrington
+creator:
+  authors:
+  - agent_name: Woolf, Virginia
+    aliases:
+    - Woolf, Virginia Stephen
+    - Stephen, Virginia
+    birthdate: 1882
+    deathdate: 1941
+    gutenberg_agent_id: '89'
+    url: http://www.gutenberg.org/2009/agents/89
+    wikipedia: http://en.wikipedia.org/wiki/Virginia_Woolf
+  - agent_name: Woolf, Leonard
+    alias: Woolf, Leonard Sidney
+    birthdate: 1880
+    deathdate: 1969
+    gutenberg_agent_id: '4565'
+    url: http://www.gutenberg.org/2009/agents/4565
+    wikipedia: https://en.wikipedia.org/wiki/Leonard_Woolf
+description: ''
+gutenberg_issued: '2020-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63230'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Two Stories
+url: http://www.gutenberg.org/ebooks/63230
